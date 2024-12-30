@@ -1,8 +1,9 @@
 ##  Excel-Based Budget With Base, Best, Worst case Scenarios
 
-Scenario-Based Budgeting empowers end users to adjust budgets dynamically by testing the impact of various growth assumptions, enabling them to evaluate changes in Gross Revenue and Net Profit effectively.
-
-In planning for uncertainty or volatility, building Base, Best, and Worst-case scenarios becomes essential. These scenarios allow businesses to flex budgets and simulate different outlooks, prescribing or recommending specific growth strategies and tactics across various functions. This process involves tweaking growth assumptions for key budget drivers or inputs to assess the outcomes.
+**Business Situation**
+In planning for uncertainty or volatility, building Base, Best, and Worst-case scenarios becomes essential. 
+These scenarios allow businesses to flex budgets and simulate different outlooks, prescribing or recommending specific growth strategies and tactics across various functions. 
+This process involves tweaking growth assumptions for key budget drivers or inputs to assess the outcomes.
 
 I participated in the Scenario-Based Budget Challenge launched by Finex Skills Hub, my data analytics training center. This challenge enhanced my skills in several key areas:
 
