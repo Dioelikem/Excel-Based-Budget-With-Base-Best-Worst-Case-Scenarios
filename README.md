@@ -1,6 +1,7 @@
 ##  Excel-Based Budget With Base, Best, Worst case Scenarios
 
 **Business Situation**
+
 In planning for uncertainty or volatility, building Base, Best, and Worst-case scenarios becomes essential. These scenarios allow businesses to flex budgets and simulate different outlooks, prescribing or recommending specific growth strategies and tactics across various functions. This process involves tweaking growth assumptions for key budget drivers or inputs to assess the outcomes.
 
 **Data Analysis Objectives** : 
