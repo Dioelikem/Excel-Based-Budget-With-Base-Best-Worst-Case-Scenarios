@@ -16,3 +16,6 @@ I participated in the Scenario-Based Budget Challenge launched by Finex Skills H
 **Outcomes**
 - This challenge honed my ability to develop flexible, data-driven budgets and simulate various growth assumptions, enabling a deeper understanding of their impact on Gross Revenue and Net Profit.
 - It also reinforced the importance of precision and efficiency in financial planning tools and techniques.
+
+**Budget Overview**
+![](Budget_based_on_Scenario.png)
