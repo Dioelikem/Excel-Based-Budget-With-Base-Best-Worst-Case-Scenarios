@@ -18,4 +18,4 @@ I participated in the Scenario-Based Budget Challenge launched by Finex Skills H
 - It also reinforced the importance of precision and efficiency in financial planning tools and techniques.
 
 **Budget Overview**
-![](Budget_based_on_Scenario.png)
+![](Budget_based_Scenario.png2.png)
